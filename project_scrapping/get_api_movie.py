@@ -1,4 +1,4 @@
-# -*- coding:utf-8 -*-"""@author:Levy@file:get_api_movie.py@time:2017/11/1714:30"""
+
 import requests
 from bs4 import BeautifulSoup as Soup
 import numpy as np
